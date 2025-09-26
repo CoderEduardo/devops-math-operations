@@ -1,0 +1,27 @@
+# Dependências
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Cache do Jest
+coverage/
+jest-cache/
+jest/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Ambiente local
+.env
+.env.local
+.env.*.local
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
